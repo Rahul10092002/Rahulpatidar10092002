@@ -12,7 +12,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack. 🚀 I l
 - LinkedIn: https://www.linkedin.com/in/rahul-patidar-838144234/
 - Email: rahulpatidar1009@gmail.com
 
-Feel free to reach out for collaboration or to discuss any exciting opportunities. Let's connect and create some magic! 🌟
+Feel free to reach out for collaboration or to discuss any exciting opportunities. Let's connect and create some magic! 
 
 
 
